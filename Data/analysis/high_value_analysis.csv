@@ -1,0 +1,3 @@
+is_high_value_transaction,transactions,fraud_transactions,average_amount,total_amount,fraud_rate
+0,47500,984,3248.906846736842,154323075.22,2.071578947368421
+1,2500,62,25246.067732,63115169.33,2.48
