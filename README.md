@@ -10,7 +10,7 @@ This project follows a complete data analytics workflow:
 
 The analysis focuses on:
 
-- Transaction volume and transaction amount analysis
+- Transaction volume and transaction amount analysis 
 - Customer spending behavior
 - Account activity
 - Transaction type and channel analysis
